@@ -1,8 +1,6 @@
 from time import sleep
 import vgamepad as vg
 
-xKey = 0x58
-
 
 gamepad = vg.VX360Gamepad()
 print("created gamepad")
